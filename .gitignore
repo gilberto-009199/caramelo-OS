@@ -1,0 +1,15 @@
+*.iso
+debian-version/.build
+debian-version/auto
+debian-version/binary
+debian-version/cache
+debian-version/chroot
+debian-version/local
+debian-version/.lock
+debian-version/*.modified_timestamps
+debian-version/*.contents
+debian-version/*.files
+debian-version/*.zsync
+debian-version/*.packages
+debian-version/*.install
+debian-version/*.live
